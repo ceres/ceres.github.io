@@ -1,0 +1,19 @@
+body {
+	background-color: #010D22;
+
+	margin: none;
+	padding: none;
+}
+
+img#banner {
+	position: absolute;
+	top: 0; bottom: 0; left: 0; right: 0;
+	margin: auto;
+	padding: none;
+
+	object-fit: cover;
+	max-width: 10in;
+	max-height: 10in;
+	width: 100%;
+	height: 100%;
+}
